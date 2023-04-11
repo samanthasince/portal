@@ -1,3 +1,6 @@
+# This is my implementation of the project using Lit javascript. This is solely my individual work. 
+# Below is the project description
+
 # COMP2110 Portal - Starter
 
 This is the starter repository for the COMP2110 Portal front end assignment 2023. You are
